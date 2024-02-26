@@ -7,7 +7,7 @@ import { Nutrition } from './components/nutrition/Nutrition'
 
 function App() {
 	return (
-		<div className="m-auto flex flex-col flex-wrap gap-y-9 bg-white p-10 sm:max-h-[750px] sm:rounded-3xl">
+		<div className="m-auto flex flex-col flex-wrap gap-y-8 bg-white p-8 sm:max-h-[750px] sm:rounded-3xl">
 			<Image />
 			<Introduction />
 			<PreparationTime />
