@@ -12,6 +12,7 @@ function App() {
 			<Introduction />
 			<PreparationTime />
 			<Ingredients />
+			<hr />
 			<Instructions />
 			<Nutrition />
 		</div>
